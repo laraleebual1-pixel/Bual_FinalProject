@@ -43,10 +43,6 @@ colors and appearance to the Kooki Bakes design.
 
 Source: https://getbootstrap.com/docs/5.3/getting-started/introduction/
 
-## Contact
-
-Facebook: https://www.facebook.com/share/1BbZUbGG5P/
-
 ## Credits
 
 Design and images were supplied for the Kooki Bakes project.
